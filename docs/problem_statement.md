@@ -13,6 +13,7 @@ Many freshers apply for hundreds of jobs but receive very few interview calls. M
 * What skills they are missing?
 * Why their resumes are not getting shortlisted?
 * What they should learn next?
+* What employers currently demand?
 
 At the same time, thousands of IT job postings are published every day containing valuable information about required skills, technologies, experience levels, and market trends.
 
